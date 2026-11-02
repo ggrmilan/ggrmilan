@@ -25,14 +25,14 @@ My architectural interests bridge low-level embedded hardware (Raspberry Pi, Ard
 ## 📈 Academic Pipeline & Artifacts
 
 ### 🟢 Accepted / In Production
-- **[Conference]** **Milan, G. G. R., et al.** _"Rainfall Acoustic Classification via Lightweight Cascade Architectures."_ International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA), 2027. *(Accepted for presentation)*.
+- **[Conference]** **MILAN, G. G. R.; PAIVA, R.; XAVIER, R.; ANSELMO, E. M.; CHAVES, M. T. R.; GOSSET, M.; MACIEL, T. F.** _"Rainfall Acoustic Classification via Lightweight Cascade Architectures."_ International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA), 2027. *(Accepted for presentation)*.
 
 ### 🟢 Congress Proceedings (Published)
-- **Fernandes, A. F.; Milan, G. G. R., et al.** _"A machine learning framework for acoustic rainfall classification applied to two distinct soundscapes."_ XLIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2026.
-- **Cunha, I. C.; ...; Milan, G. G. R., et al.** _"Projection-Based Partitioned MiLAC Architecture for MU-MIMO Precoding."_ XLIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2026.
+- **FERNANDES, A. F.; MILAN, G. G. R.; MACIEL, T. F.; XAVIER, R.; ANSELMO, E. M.; CHAVES, M. T. R.; GOSSET, M.** _"A machine learning framework for acoustic rainfall classification applied to two distinct soundscapes."_ XLIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2026.
+- **CUNHA, I. C.; MARTINS, F. L. F.; MILAN, G. G. R.; ASIM, FAZAL-E; ALMEIDA, A. L. F. DE** _"Projection-Based Partitioned MiLAC Architecture for MU-MIMO Precoding."_ XLIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2026.
 
 ### 🟢 Presentations & Abstracts
-- **Milan, G. G. R., et al.** _"Rainfall acoustic classification in semi-urban and forest soundscapes with machine learning."_ Second International Conference on Opportunistic Sensing of Precipitation (OpenSense), Utrecht, 2026.
+- **MILAN, G. G. R.; FERREIRA, A.; CHAVES, M. T. R.; XAVIER, R. ; MACIEL, T. F. ; GOSSET, M.** _"Rainfall acoustic classification in semi-urban and forest soundscapes with machine learning."_ Second International Conference on Opportunistic Sensing of Precipitation (OpenSense), Utrecht, 2026.
 
 ## 🛠 Stack Architecture
 **Core Logic & Hardware:**
