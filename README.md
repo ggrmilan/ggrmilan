@@ -24,7 +24,7 @@ My architectural interests bridge low-level embedded hardware (Raspberry Pi, Ard
 
 ## 📈 Academic Pipeline & Artifacts
 
-### 🟢 Accepted / In Production
+### 🟢 Accepted
 - **[Conference]** **MILAN, G. G. R.; PAIVA, R.; XAVIER, R.; ANSELMO, E. M.; CHAVES, M. T. R.; GOSSET, M.; MACIEL, T. F.** _"Rainfall Acoustic Classification via Lightweight Cascade Architectures."_ International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA), 2027. *(Accepted for presentation)*.
 
 ### 🟢 Congress Proceedings (Published)
