@@ -35,26 +35,24 @@ My architectural interests bridge low-level embedded hardware (Raspberry Pi, Ard
 - **Milan, G. G. R., et al.** _"Rainfall acoustic classification in semi-urban and forest soundscapes with machine learning."_ Second International Conference on Opportunistic Sensing of Precipitation (OpenSense), Utrecht, 2026.
 
 ## 🛠 Stack Architecture
-
-**Core Logic, DSP & Hardware:**
+**Core Logic & Hardware:**
 ![Python](https://img.shields.io/badge/Python-1b4332?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1b4332?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1b4332?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-1b4332?style=flat-square&logo=arduino&logoColor=white)
 
-**Web & Interface Engineering:**
-![HTML5](https://img.shields.io/badge/HTML5-1b4332?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1b4332?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1b4332?style=flat-square&logo=javascript&logoColor=white)
+**Web & Deployment:**
+![HostGator](https://img.shields.io/badge/HostGator-1b4332?style=flat-square&logo=hostgator&logoColor=white)
+![Front-End Management](https://img.shields.io/badge/Front--End_Management-1b4332?style=flat-square&logo=googlechrome&logoColor=white)
 
-**Scientific Documentation & Visual Design:**
+**Documentation & Layout Arrays:**
 ![LaTeX](https://img.shields.io/badge/LaTeX-1b4332?style=flat-square&logo=latex&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-1b4332?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-1b4332?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-1b4332?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-1b4332?style=flat-square&logo=adobeindesign&logoColor=white)
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=giovannigremedym&color=1b4332&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=giovannigremedym&color=1b4332&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
