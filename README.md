@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 📡 Giovanni G. R. Milan
+  # 🔊 Giovanni G. R. Milan 🛰️
   **Telecommunications Engineering | Applied Signal Processing | Systems Architecture**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanni_Milan-1b4332?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telecom-giovanni-milan/)
