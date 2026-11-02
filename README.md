@@ -12,7 +12,7 @@
 <br>
 
 ## 🔬 System State & Macro Objective
-Currently deploying opportunistic sensing architectures and Machine Learning models for audio analysis as a researcher at the **Laboratory of Applied Signal Processing (LASP)** at the **Federal University of Ceará (UFC)**. 
+Currently deploying opportunistic sensing architectures and Machine Learning models for audio analysis as a ungraduate researcher at the **Laboratory of Applied Signal Processing (LASP)** at the **Federal University of Ceará (UFC)**. 
 
 My architectural interests bridge low-level embedded hardware (Raspberry Pi, Arduino, C++) with high-level computational models (Python, DSP), driving toward complex, fault-tolerant Systems Engineering and Computer Engineering methodologies.
 
